@@ -80,8 +80,4 @@ This README provides context for understanding each visualization. Use it as a r
 
 ---
 
-## Contact
-For further clarification or additional analysis, feel free to reach out!
-"""
-
 
