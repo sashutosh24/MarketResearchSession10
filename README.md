@@ -86,9 +86,4 @@ This README provides context for understanding each visualization. Use it as a r
 For further clarification or additional analysis, feel free to reach out!
 """
 
-# Save the content to a Markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
 
-file_path
