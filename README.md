@@ -1,6 +1,4 @@
-# Create a README.md file for the provided content
-readme_content = """
-# README File for Uploaded Images
+
 
 ## Overview
 This document provides an overview and explanation of the images uploaded. Each image represents a specific analysis or visualization, grouped by its respective purpose and insights.
