@@ -75,9 +75,6 @@ This document provides an overview and explanation of the images uploaded. Each 
 
 ---
 
-## Usage
-This README provides context for understanding each visualization. Use it as a reference for interpreting the analysis and insights drawn from the uploaded images.
 
----
 
 
